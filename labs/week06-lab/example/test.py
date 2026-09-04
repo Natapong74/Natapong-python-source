@@ -15,7 +15,7 @@ def convert_currency(thd,usd):
     else:
         print(f"{thd} USD = {thd * 32} THB")
 
-convert_currency(100,"USD")
+convert_currency(200,"USD")
 convert_currency(100,"THD")
 
 
